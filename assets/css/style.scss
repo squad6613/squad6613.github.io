@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    background-image: url("/assets/images/coffee-background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.page-content {
+    background: rgba(255,255,255,.88);
+    padding: 2rem;
+    border-radius: 10px;
+}
