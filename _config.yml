@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
-title: Squad's Homepage
-description: Bookmark this page to see my website journey!
+title: Eppic Coffee
+description: Small niche coffee operation with care!
+theme: minima
+
+# So Jekyll will load a custom CSS
+sass:
+  style: compress
