@@ -1,2 +1,7 @@
-# squad6613.github.io
-Creating a test website.
+# Welcome
+
+Fresh coffee.
+
+Roasted locally.
+
+Delivered with care.
