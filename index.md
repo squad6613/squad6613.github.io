@@ -1,4 +1,3 @@
-# Welcome
 
 Fresh coffee.
 
