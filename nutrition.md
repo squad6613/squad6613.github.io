@@ -6,50 +6,11 @@ title: Nutrition
 # Nutrition Information
 
 Here you'll find nutritional information for all of our coffee products.
-
-## Original
-
-| Nutrient | Amount |
-|:---------|-------:|
-| Calories | 136 |
-| Total Fat | 4 g |
-| Saturated Fat | 3 g |
-| Trans Fat | 0 g |
-| Cholesterol | 21 g |
-| Sodium | 43 mg |
-| Total Carbohydrates | 22 g |
-| Sugars | 4 g |
-| Protein | 3 g |
-| Vitamin D | 0.5 mcg |
-| Calcium | 86.8 mg |
-| Iron | 0 mg |
-| Potassium | 106.4 mg |
-
-## Original Dairy Free
-
-| Nutrient | Amount |
-|:---------|-------:|
-| Calories | 136 |
-| Total Fat | 4 g |
-| Saturated Fat | 3 g |
-| Trans Fat | 0 g |
-| Cholesterol | 21 g |
-| Sodium | 43 mg |
-| Total Carbohydrates | 22 g |
-| Sugars | 4 g |
-| Protein | 3 g |
-| Vitamin D | 0.5 mcg |
-| Calcium | 86.8 mg |
-| Iron | 0 mg |
-| Potassium | 106.4 mg |
-
-
-
-
-
-
 <div class="nutrition">
   <h1>Nutrition Facts</h1>
+
+  
+<!--###################### Original ######################-->
 
   <h2>Original</h2>
 
@@ -141,6 +102,126 @@ Here you'll find nutritional information for all of our coffee products.
 
 
 <hr style="border: none; border-top: 1px solid black;">
+
+<!--###################### Original Dairy Free ######################-->
+
+  <h2>Original Dairy Free</h2>
+
+  <div class="serving">
+    Serving Size 1 Pop (4 OZ)
+  </div>
+
+  <hr>
+
+  <div class="calories">
+    <span>Calories</span>
+    <strong>183</strong>
+  </div>
+
+  <hr class="thick">
+
+  <div class="row">
+    <strong>Total Fat</strong>
+    <span>9g</span>
+    <span>12%</span>
+  </div>
+
+  <div class="row">
+    <strong>Saturated Fat</strong>
+    <span>7g</span>
+    <span>35%</span>
+  </div>
+  
+  <div class="row">
+    <strong>Trans Fat</strong>
+    <span>0g</span>
+    <span>0%</span>
+  </div>
+
+  <div class="row">
+    <strong>Cholesterol</strong>
+    <span>21.5g</span>
+    <span>7%</span>
+  </div>
+
+  <div class="row">
+    <strong>Sodium</strong>
+    <span>31g</span>
+    <span>3%</span>
+  </div>
+
+   <div class="row">
+    <strong>Total Carbohydrates</strong>
+    <span>24g</span>
+    <span>9%</span>
+  </div>
+
+  <div class="row">
+    <strong>Total Sugars</strong>
+    <span>20g</span>
+    <span>40%</span>
+  </div>
+
+  <div class="row">
+    <strong>Protein</strong>
+    <span>0.4g</span>
+  </div>
+
+   <div class="row">
+    <strong>Dietary Fiber</strong>
+    <span>0.4g</span>
+     <span>2%</span>
+  </div>
+
+  <hr class="thick">
+
+  <div class="row">
+    <strong>Vitamin D</strong>
+    <span>0.8mcg</span>
+    <span>4%</span>
+  </div>
+  
+  <div class="row">
+    <strong>Calcium</strong>
+    <span>70mg</span>
+    <span>5%</span>
+  </div>
+
+  <div class="row">
+    <strong>Iron</strong>
+    <span>0.06mg</span>
+    <span>0.4%</span>
+  </div>
+
+  <div class="row">
+    <strong>Potassium</strong>
+    <span>82mg</span>
+    <span>2%</span>
+  </div>
+
+  <div class="row">
+    <strong>Vitamin A</strong>
+    <span>36mg</span>
+    <span>4%</span>
+  </div>
+
+  <div class="row">
+    <strong>Riboflavin</strong>
+    <span>0.026mg</span>
+    <span>2%</span>
+  </div>
+
+  <div class="row">
+    <strong>Vitamin B12</strong>
+    <span>0.048mg</span>
+    <span>2%</span>
+  </div>
+
+
+<hr style="border: none; border-top: 1px solid black;">
+
+
+<!--###################### Espresso ######################-->
   
   <h2>Espresso</h2>
 
