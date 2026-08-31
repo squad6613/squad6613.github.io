@@ -6,48 +6,6 @@ title: Nutrition
 # Nutrition Information
 
 Here you'll find nutritional information for all of our coffee products.
-
-## Original
-
-| Nutrient | Amount |
-|:---------|-------:|
-| Calories | 136 |
-| Total Fat | 4 g |
-| Saturated Fat | 3 g |
-| Trans Fat | 0 g |
-| Cholesterol | 21 g |
-| Sodium | 43 mg |
-| Total Carbohydrates | 22 g |
-| Sugars | 4 g |
-| Protein | 3 g |
-| Vitamin D | 0.5 mcg |
-| Calcium | 86.8 mg |
-| Iron | 0 mg |
-| Potassium | 106.4 mg |
-
-## Original Dairy Free
-
-| Nutrient | Amount |
-|:---------|-------:|
-| Calories | 136 |
-| Total Fat | 4 g |
-| Saturated Fat | 3 g |
-| Trans Fat | 0 g |
-| Cholesterol | 21 g |
-| Sodium | 43 mg |
-| Total Carbohydrates | 22 g |
-| Sugars | 4 g |
-| Protein | 3 g |
-| Vitamin D | 0.5 mcg |
-| Calcium | 86.8 mg |
-| Iron | 0 mg |
-| Potassium | 106.4 mg |
-
-
-
-
-
-
 <div class="nutrition">
   <h1>Nutrition Facts</h1>
 
