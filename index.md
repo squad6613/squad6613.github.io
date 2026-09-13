@@ -7,7 +7,7 @@ Testing a comment first
 
   <div class="welcome-text">
     <h1>Welcome</h1>
-    <p>We serve coffee popcycles.</p>
+    <p>We serve coffee popcicles.</p>
     <p>They're delicious.</p>
     <p>Delivered with care.</p>
   </div>
