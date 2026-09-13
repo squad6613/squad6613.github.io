@@ -9,11 +9,7 @@ Here you'll find nutritional information for all of our coffee products.
 <div class="nutrition">
   <h1>Nutrition Facts</h1>
 
-.footer-heading {
-  display: none;
-}
-
-  
+ 
 <!--###################### Original ######################-->
 
   <h2>Original</h2>
@@ -319,6 +315,13 @@ Here you'll find nutritional information for all of our coffee products.
   <!-- additional nutrients -->
 </div>
 
+<style>
+  
+  .footer-heading {
+    display: none;
+  }
+  
+</style>
 
 
 <!-- Commenting this out for now
