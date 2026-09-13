@@ -15,8 +15,10 @@ Testing a comment first
 
 <style>
 .logo-text {
+  min-height: 80vh;
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 40px;
 }
 
@@ -26,13 +28,15 @@ Testing a comment first
 }
 
 .welcome-text {
-  flex: 1;
+  flex: 0 1 auto;
 }
 
 @media (max-width: 600px) {
   .logo-text {
+    min-height: auto;
     flex-direction: column;
     text-align: center;
+    padding: 40px 20px;
   }
 
   .logo-text img {
@@ -40,4 +44,5 @@ Testing a comment first
   }
 }
 </style>
+
 
