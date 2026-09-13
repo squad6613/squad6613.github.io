@@ -21,7 +21,7 @@ Testing a comment first
 }
 
 .logo-text img {
-  width: 550px;
+  width: 450px;
   height: auto;
 }
 
