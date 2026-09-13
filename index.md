@@ -9,7 +9,6 @@ Testing a comment first
     <h1>Welcome</h1>
     <p>We serve coffee popcicles.</p>
     <p>They're delicious.</p>
-    <p>Delivered with care.</p>
   </div>
 </div>
 
