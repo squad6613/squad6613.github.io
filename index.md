@@ -15,7 +15,7 @@ Testing a comment first
 
 <style>
 .logo-text {
-  min-height: 80vh;
+  min-height: 65vh;
   display: flex;
   align-items: center;
   justify-content: center;
