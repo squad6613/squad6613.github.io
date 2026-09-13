@@ -31,6 +31,10 @@ Testing a comment first
   flex: 0 1 auto;
 }
 
+.footer-heading {
+  display: none;
+}
+
 @media (max-width: 600px) {
   .logo-text {
     min-height: auto;
